@@ -1,3 +1,8 @@
 ## Transformer Models
 
 If you're looking to understand one of the most transformative advancements in machine learning, the transformer model is something you should consider. Introduced in a 2017 paper by Google, ["Attention Is All You Need"](https://arxiv.org/abs/1706.03762), transformers have revolutionized how ML models understand and process sequential data.
+
+
+
+### Attention Mechanism
+The **attention mechanism**, introduced by [Bahdanau et al., 2014](https://arxiv.org/abs/1409.0473), addresses limitations in handling long sequences by allowing the decoder to focus on relevant parts of the input at each time step. This leads to better translation quality.
